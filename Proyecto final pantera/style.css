@@ -118,6 +118,12 @@ footer{
 
 }
 
+.productos{
+    width: 100%;
+    height: 500px;
+    box-sizing: border-box;
+}
+
 #carouselExample{
     background-color: rgb(152, 242, 247);
 }
